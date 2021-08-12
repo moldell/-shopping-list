@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_02_TextValue</description>
+        <name display_value="TextValue">601f19c2b7321010df65f6efce11a925</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 03:44:01</sys_created_on>
+        <sys_id>a0856d271b713010c3a2877ddc4bcb54</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>601f19c2b7321010df65f6efce11a925</sys_name>
+        <sys_package display_value="Shopping List" source="x_675682_shopping">80d3a5a31b713010c3a2877ddc4bcb43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">80d3a5a31b713010c3a2877ddc4bcb43</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_a0856d271b713010c3a2877ddc4bcb54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 05:43:16</sys_updated_on>
+        <translated_value/>
+        <value/>
+        <view_config_element display_value="quantity-FieldValue">ec856d271b713010c3a2877ddc4bcb51</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=a0856d271b713010c3a2877ddc4bcb54"/>
+</record_update>
